@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2019-01-11
+img: data_embroidery.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Our work explores the use of embroidery as a medium for personal data representation. Personal physicalization is at the intersection of personal visualization and physicalization. More precisely, personal physicalization uses tangible objects to represent data in a personal context. This unique design space inspired us to explore alternative mediums to integrate data with personal artifacts, as well as facilitate the exploration of a multi-sensory data encoding. We first developed a workflow for authoring embroidered physicalizations. Then, we used this process to create an embroidered blanket based on text message data. https://vimeo.com/290331608 Poster Submission to VIS 2018 - Honorable Mention (http://ieeevis.org/year/2018/info/awards/best-poster-awards)
+
+---

@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2019-01-12
+img: iobit.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Personal Informatics is a class of systems that use personal data to improve knowledge of oneself. These systems are commonly designed for specific tasks, using sensors to offload the effort from the user to the system. We suggest exploring a new strategy self-logging equipment that is inexpensive, multi-purpose, and embeddable. By creating a tool with a generic interface, we enable people to have more control and customization than traditional systems while still alleviating the user's workload. We propose I/O Bits - simple modules with physical interaction components and an e-paper display. Individuals can use these modules to manually track a wide variety of activities and phenomena throughout their daily lives. The display shows visualizations of the user's data to support reflection and insights during tracking. The modules are small and low-power, allowing them to be integrated into a diverse range of everyday environments. This allows our system to support spontaneous, flexible, and user-driven tracking that is not restricted by sensors or mobile devices. In submission (late-breaking-work) main-author 
+
+---
