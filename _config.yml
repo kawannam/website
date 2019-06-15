@@ -2,7 +2,8 @@
 title: Kendra Wannamaker
 email: kendrawannam@gmail.com
 url: http://kawannam.github.io
-description: "Computer Scientist - Researcher - Teacher"
+description: "Kendra Wannamakers portfoilio website. She is a Computer Scientist, Researcher, Teacher"
+keywords: "Software Developer, Software Engineer, Human Computer Interaction, Visualization, Personal Informatics, Researcher, Algorithms, Teacher"
 skills: "Computer Scientist - Researcher - Teacher"
 meta_author: Wannamaker Kendra
 
@@ -44,8 +45,6 @@ social:
     url: https://www.instagram.com/nonlogicallogic/
   - title: linkedin
     url: https://www.linkedin.com/in/kendra-wannamaker-88622aa4/
-  - title: bitbucket
-    url: https://bitbucket.org/Kawannam/
   - title: github
     url: https://github.com/kawannam
 
@@ -61,6 +60,4 @@ credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-baseurl: \
 
