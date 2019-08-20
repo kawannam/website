@@ -4,9 +4,6 @@ modal-id: 8
 date: 2019-05-22
 img: garmin.png
 alt: Garmin Logo 
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Tackled a range of projects such as a tool to test signal strength (Monkey C), optimized the public SDK release system (Java), implemented ANT on the Forerunner 645 (C/C++), and released several example bike light applications (Monkey C) for external developers.<br><br> The project I take most pride in was a demo application for the G-FIT. I took the lead on gathering requirements, presenting solution designs, and iteratively developing a demo application. The demo application was developed in tandem with G.FIT and helped test and think through features. The Demo received praise from top level executives for being a compelling and exciting way to showcase the new product. <br><br> Website&#58; https&#58;//www.garmin.com/en-CA/
+description: Tackled a range of projects such as a tool to test signal strength (Monkey C), optimized the public SDK release system (Java), implemented ANT on the Forerunner 645 (C/C++), and released several example bike light applications (Monkey C) for external developers.<br><br> I am particularly proud of a demo application I developed for the G-FIT. I took the lead on gathering requirements, presenting solution designs, and iteratively developing a demo application. The demo application was developed in tandem with G.FIT and is used to conceptualize and test new features. The demo received praise from top level executives for being a compelling and exciting way to showcase the new product.<br><br> Website&#58; <a href="https://www.garmin.com/en-CA/">https://www.garmin.com/en-CA/</a> 
 
 ---

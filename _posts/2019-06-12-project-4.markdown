@@ -4,9 +4,6 @@ modal-id: 4
 date: 2019-06-12
 img: bionicBird.png
 alt: Robot Bird on Shoulder
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: The bionic bird is a robotic assistant that is designed to aid travellers in unfamiliar cities. It consists of a three-jointed arm adorned with a rudimentary gripper, and is capable of retrieving the wearer’s possessions from their backpack. Along with physical assistance, the bird is capable of providing navigation and interesting facts as the wearer makes their way through the city. All interactions with the bird are performed using vocal commands. This project was a submission to the UIST Student Innovation Contest in Berlin, where it was recognized by the sponsor company, Makeblock (https&#58;//www.makeblock.com/). <br><br> Github&#58; https&#58;//github.com/krispybird/ShoulderParrot
+description: The bionic bird is a robotic assistant that is designed to aid travellers in unfamiliar cities. It consists of a three-jointed arm adorned with a rudimentary gripper, and is capable of retrieving the wearer’s possessions from their backpack. Along with physical assistance, the bird is capable of providing navigation and interesting facts as the wearer makes their way through the city. All interactions with the bird are performed using vocal commands. This project was a submission to the UIST Student Innovation Contest in Berlin, where it was recognized by the sponsor company, <a href="https://www.makeblock.com/">Makeblock</a>  (). <br><br> Github&#58; <a href="https://github.com/krispybird/ShoulderParrot">https://github.com/krispybird/ShoulderParrot</a> 
 
 ---
