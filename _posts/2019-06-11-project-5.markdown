@@ -7,10 +7,6 @@ alt: People Competitive Programming
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Programming competitions impose a set of challenging coding tasks to teams of up to three contestants. Solutions to these problems must meet strict time and space restrictions, and require advanced programming techniques and quick analysis. Each team must develop their solutions using a single computer without access to the internet. Over the last few years I have competed at the city, provincial, and regional levels.
-- Rocky Mountain Regionals ACM-ICPC 2016: 6th
-- Calgary Collegiate Programming Contest 2017: 2nd
-- Calgary Collegiate Programming Contest 2018: 5nd
-- Calgary Collegiate Programming Contest 2019: 2nd
+description: Programming competitions impose a set of challenging coding tasks to teams of up to three contestants. Solutions to these problems must meet strict time and space restrictions, and require advanced programming techniques and quick analysis. Each team must develop their solutions using a single computer without access to the internet. Over the last few years I have competed at the city, provincial, and regional levels. <br><br> - Rocky Mountain Regionals ACM-ICPC 2016&#58; 6th <br> - Calgary Collegiate Programming Contest 2017&#58; 2nd <br> - Calgary Collegiate Programming Contest 2018&#58; 5nd <br> - Calgary Collegiate Programming Contest 2019&#58; 2nd
 
 ---

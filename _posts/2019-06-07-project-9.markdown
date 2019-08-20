@@ -7,8 +7,6 @@ alt: Hitachi ID Systems Logo
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: I filled a technical support role at Hitachi, where I assisted IT technicians with systems installations and problems as they arose, along with several smaller internal developer tools. The role was a four month internship designed to familiarize potential employees for the Solution Architect role. Following my internship, my direct manager described me as one of the most impressive students he had ever worked with (for the full recommendation see my LinkedIn page: www.linkedin.com/in/kendra-wannamaker-88622aa4).
-
-Website: https://hitachi-id.com
+description: I filled a technical support role at Hitachi, where I assisted IT technicians with systems installations and problems as they arose, along with several smaller internal developer tools. The role was a four month internship designed to familiarize potential employees for the Solution Architect role. Following my internship, my direct manager described me as one of the most impressive students he had ever worked with (for the full recommendation see my LinkedIn page &#58; www.linkedin.com/in/kendra-wannamaker-88622aa4). <br><br> Website https&#58;//hitachi-id.com
 
 ---
