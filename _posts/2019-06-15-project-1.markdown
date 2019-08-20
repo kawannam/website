@@ -1,0 +1,18 @@
+---
+layout: default
+modal-id: 1
+date: 2019-06-15
+img: iobit.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Personal Informatics systems aim to help people collect and utilize their own personal data. Situated visualizations aim to decentralize data consumption and support people in making data-driven decisions in-situ (situationally). I/O Bits are a personal tracking system I designed, developed, and deployed that explores the intersection between personal informatics and situated visualization. 
+
+Philosophically, I/O Bits leverage simple user-driven tracking to obtain a versatile personal informatics system that visualizes data in-situ. The system is task-unaware, offline, and DIY, acting more like a tool to support personal tracking rather than a coach or nagging mother. 
+
+An I/O Bit consists of 5 push buttons, a wifi-enabled board, a re-chargeable battery, and an e-paper display. It is roughly the size of two decks of cards and costs about $60 (CAD) to make at home. The data collected is comprised of button press time-stamps and is visualized in five different ways. These different visualizations each emphasize different elements of the data that people typically care about (counts, instances, ratios, etc.)
+
+Github: https://github.com/kawannam/IO-BITS
+
+---

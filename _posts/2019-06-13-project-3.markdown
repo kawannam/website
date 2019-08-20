@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 3
+date: 2019-06-13
+img: materials.png
+alt: Sketching Materials
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Situation Visualization is an emerging field that explores representations of data displayed in proximity to the physical referents (such as people, objects, and locations) to which the data is related. In collaboration with Aarhus University we report on findings from seven ideation and sketching activities to prototype new situated visualizations. In the paper, which appeared at DIS 2019, we reflect on the experience and present a set of insights and opportunities for running situated ideation activities. 
+
+Paper: https://dl.acm.org/citation.cfm?id=3322326
+Workshop Materials: https://github.com/hci-au-dk/situated-vis-sketching
+
+---

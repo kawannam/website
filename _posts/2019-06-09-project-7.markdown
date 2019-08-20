@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 7
+date: 2019-05-23
+img: teachingassistant.png
+alt: Teaching Assistant Logo
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: I have been a teaching assistant for an algorithm design and analysis course twice. This course is a notoriously difficult and mandatory part of an undergraduate computer science degree at the University of Calgary. I developed an active, engaging, and unique teaching style that garnered overwhelmingly positive feedback. Several of my tutorial sessions involved "games" that made the abstract and complex course material more approachable. My teaching methods helped me win a TA excellence award in the Winter 2019 semester, which is granted based on student feedback.
+
+Website: https://science.ucalgary.ca/computer-science
+
+---

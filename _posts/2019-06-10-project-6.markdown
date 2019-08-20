@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 6
+date: 2019-06-10
+img: technovation.png
+alt: Technovation Logo
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: I am a strong proponent of women in STEM, and for this reason I took part in the University of Calgary's Technovation program. I was responsible for teaching Android programming workshops to the contestants (from elementary to high school students), whose programming backgrounds varied widely. It was incredibly meaningful and rewarding to watch the girls grow as their projects took form.
+
+Update: the "Robot Unicorns", from the junior division at the University of Calgary, have advanced to the Technovation World Pitch Finals in the San Francisco Bay Area! https://science.ucalgary.ca/news/congratulations-team-robot-unicorns-being-technovation-junior-division-finalist
+
+Website: https://technovationchallenge.org/
+
+
+---
